@@ -20,6 +20,8 @@ export const Left = styled.div`
 `;
 
 export const Title = styled.p`
+  width: 524px;
+  height: 132px;
   font-size: 55px;
   color: #04050a;
   font-weight: 400;
@@ -49,4 +51,8 @@ export const Button = styled.a`
   border-radius: 18px;
   margin-top: 58px;
   cursor: pointer;
+`;
+
+export const Span = styled.span`
+  color: #0b90ff;
 `;
